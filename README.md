@@ -5,6 +5,36 @@ A practical Embedded Systems learning journey focused on understanding both firm
 This repository contains the completed learning path from C/C++ and microcontroller fundamentals through GPIO, registers, timers, interrupts, debouncing, reusable firmware architecture, Button Drivers, and Arrays.
  
 The repository ends immediately before the PWM and Power Switching chapter.
+
+## Study Notes
+ 
+The complete study notes for this chapter are available here:
+ 
+Read the complete Embedded Systems Study Notes
+ 
+The notes cover the learning path from C/C++ fundamentals and MCU concepts through GPIO, timers, interrupts, debouncing, reusable Button Drivers, and Arrays.
+ 
+## Project Documentation
+ 
+Core concepts:
+ 
+Core Concepts
+ 
+Learning roadmap:
+ 
+Roadmap
+ 
+Button Driver architecture:
+ 
+Button Driver Notes
+ 
+Hardware setup:
+ 
+Hardware Setup
+ 
+Firmware:
+ 
+Button Driver Array Firmware
  
 ## Hardware Platform
  
