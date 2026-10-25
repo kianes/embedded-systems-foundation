@@ -1,3 +1,13 @@
+#    Embedded Systems Foundation 
+ 
+   **HARDWARE · FIRMWARE · ENGINEERING** 
+ 
+   A practical learning path from embedded fundamentals to real-world projects. 
+ 
+   Focus: Embedded Systems   Language: C/C++   Hands-on learning 
+ 
+ 
+***
 # Embedded Systems Foundation
  
 A practical Embedded Systems learning journey focused on understanding both firmware and hardware from first principles.
